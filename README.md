@@ -151,12 +151,15 @@ By blog #6–8, the first draft should be near-publishable without significant r
 ## Key Design Decisions
 
 **Why wiki over RAG?**
+
 RAG re-derives knowledge every session from raw documents. A wiki pre-digests sources into structured pages that accumulate connections over time. The knowledge compounds — RAG doesn't.
 
 **Why append-only logs?**
+
 `_learnings.md` and `log.md` are never edited, only appended. This preserves the full history of what was tried, what failed, and what the writer changed — which is the most valuable signal for improving drafts.
 
 **Why writer rewrites become schema?**
+
 A writer's correction is better data than a style guide. It is specific, contextual, and comes from a real quality failure. Encoding it in `_schema.md` means that failure cannot recur.
 
 ---
@@ -164,6 +167,10 @@ A writer's correction is better data than a style guide. It is specific, context
 ## Graph View (Obsidian)
 
 The wiki is designed to be opened in Obsidian. The graph view shows how concepts, sources, blogs, and production files are interconnected. Blog analysis pages link each produced blog back to the wiki concepts it applies.
+
+![LLM Second Brain — Obsidian Graph View](assets/graph-view.png)
+
+> Every node is a wiki page. Every edge is a `[[wikilink]]`. The central cluster is the concept core (E-E-A-T, Flesch, GEO, scoring rubric). Outer nodes are blogs, analyses, and production files connected back into the knowledge base.
 
 ---
 
