@@ -1,0 +1,17 @@
+# Proprietary source documents — not for public distribution
+demo/raw/Central_RAG_Document_Enhanced_v2.md
+demo/raw/WildnetEdge_Writing_Guide.md
+demo/raw/Flesch Kincaid Calculator.md
+demo/raw/10 Tips to Hire iOS App Developers in the USA.md
+
+# Proprietary format spec
+demo/blog-types/tips-blogs/_reference/Tip Blog Schema.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

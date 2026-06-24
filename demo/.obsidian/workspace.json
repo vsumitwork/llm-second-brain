@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "de1c8ecb74892b5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e0605e1b8acd34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1598259dcbd1c9ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "943d415f01183c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a183e6251bac543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb50713840b20163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f4f58df68f82c603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "002a7c846bfcba84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5a22333bbc063ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce439d85cd2a689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8460628f47e6a939",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b340b2be8be5c8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "756441bbc378206f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad7e5bbdeffa2749",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b7f8490b5b5f2a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1598259dcbd1c9ed",
+  "lastOpenFiles": [
+    "wiki/index.md.tmp.16512.d6c29c5749fe",
+    "blog-types/tips-blogs/_learnings.md.tmp.16512.3c08911446b5",
+    "wiki/analyses/blog-healthcare-app-developers-2026.md",
+    "wiki/analyses/blog-react-native-developers-2026.md",
+    "wiki/analyses/blog-flutter-developers-2026.md",
+    "wiki/concepts/lint-workflow.md",
+    "wiki/concepts/keyword-placement-priority.md",
+    "wiki/concepts/content-review-scorecard.md",
+    "wiki/concepts/staff-augmentation.md",
+    "blog-types/tips-blogs/_learnings.md.tmp.13044.f57a27eb3ccf",
+    "blog-types/tips-blogs/_schema.md.tmp.13044.154394851bc8",
+    "blog-types/tips-blogs/_reference/flutter-writer-rewrite-reference.md",
+    "blog-types/tips-blogs/output/flutter-developers-2026.md.tmp.7928.087d052e1242",
+    "blog-types/tips-blogs/_learnings.md.tmp.7928.4720595ad641",
+    "blog-types/tips-blogs/_schema.md.tmp.7928.958f9da39ca1",
+    "blog-types/tips-blogs/_schema.md.tmp.7928.74e9a696b68d",
+    "blog-types/tips-blogs/_reference/Tip Blog Schema.docx",
+    "wiki/index.md.tmp.7928.3325e0edb40e",
+    "wiki/log.md.tmp.7928.29959f66e9d3",
+    "blog-types/tips-blogs/output/flutter-developers-2026.md",
+    "blog-types/tips-blogs/_reference/ios-developer-hiring-reference.md",
+    "blog-types/tips-blogs/_learnings.md",
+    "blog-types/tips-blogs/_schema.md",
+    "wiki/analyses/content-brief-template.md",
+    "wiki/concepts/flesch-kincaid-grade-level.md",
+    "wiki/concepts/keyword-density-targets.md",
+    "wiki/concepts/ai-overviews-aio.md",
+    "wiki/concepts/e-e-a-t.md",
+    "wiki/index.md",
+    "flesch-kincaid-grade-level.md",
+    "keyword-density-targets.md",
+    "wiki/concepts/answer-capsule-framework.md",
+    "wiki/concepts/blog-content-pattern.md",
+    "wiki/concepts/ymyl.md",
+    "wiki/concepts/google-helpful-content-system.md",
+    "wiki/concepts/schema-markup.md",
+    "Untitled.canvas"
+  ]
+}
