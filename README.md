@@ -168,7 +168,7 @@ A writer's correction is better data than a style guide. It is specific, context
 
 The wiki is designed to be opened in Obsidian. The graph view shows how concepts, sources, blogs, and production files are interconnected. Blog analysis pages link each produced blog back to the wiki concepts it applies.
 
-![LLM Second Brain — Obsidian Graph View](assets/graph-view.png)
+![LLM Second Brain](assets/graph-view.png)
 
 > Every node is a wiki page. Every edge is a `[[wikilink]]`. The central cluster is the concept core (E-E-A-T, Flesch, GEO, scoring rubric). Outer nodes are blogs, analyses, and production files connected back into the knowledge base.
 
