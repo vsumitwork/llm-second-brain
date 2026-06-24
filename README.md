@@ -1,15 +1,15 @@
-# LLM Second Brain — Compounding Content Production System
+# LLM Second Brain | Compounding Content Creation System
 
-A persistent, self-improving knowledge base that produces SEO/GEO-optimized content at scale using Claude AI. Each session builds on the last. Each writer rewrite raises the floor for the next draft.
+A persisten & self-improving knowledge base that produces SEO/GEO-optimized content at scale using Claude AI. Each session builds on the last. Each content rewrite raises the floor for the next draft.
 
 ---
 
 ## What This Is
 
-Most AI content workflows are stateless — every session starts from zero. This project builds a **compounding knowledge system** where:
+Most AI content workflows are stateless, as every session starts from zero. This project builds a **compounding knowledge system** instead where:
 
 - Sources are ingested once and never re-read
-- Every rule a writer corrects gets written into the schema permanently
+- Every content piece a writer corrects gets written into the schema permanently
 - Every blog produced leaves behind structured learnings for the next one
 - The gap between "first AI draft" and "publish-ready" shrinks with every iteration
 
@@ -47,7 +47,7 @@ demo/
 ### Three Loops
 
 **Loop 1 — Ingest**
-A source document goes in. Claude extracts entities, concepts, and key claims into structured wiki pages. The raw document is never re-read again.
+A source document goes in. Claude extracts entities, concepts, and key claims into structured wiki pages (knowledge base). The raw document is never re-read again.
 
 **Loop 2 — Produce**
 To write a blog, Claude reads:
@@ -56,7 +56,7 @@ To write a blog, Claude reads:
 3. Most recent writer-approved reference file — current style floor
 4. Live competitor URLs — structural coverage and fresh stats
 
-Then writes from synthesis — not from re-reading 50-page source documents.
+Then writes from synthesis — not from re-reading 50-page source documents, which get older by the minute.
 
 **Loop 3 — Learn**
 Writer reviews the draft. Changes are extracted as rules and added permanently to `_schema.md`. The rewritten version becomes the new `_reference/` floor. Next blog starts higher.
